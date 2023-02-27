@@ -1,0 +1,164 @@
+{
+  "content": [
+    {
+      "path": "MSFSLayoutGenerator.exe",
+      "size": 364544,
+      "date": 132691847200000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/aircraft.cfg",
+      "size": 788,
+      "date": 132980513240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/BCW2_ALBEDO.PNG.dds",
+      "size": 22369796,
+      "date": 132958231800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/BCW2_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132838816980000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/BCW_ALBEDO.PNG.dds",
+      "size": 22369796,
+      "date": 132958232180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/BCW_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132838816940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/CABIN_WALLS_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133206876404244162
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/CABIN_WALLS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132943344300000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/FWD_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 132958241160000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/FWD_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132838817000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/FWD_METALLIC.PNG.dds",
+      "size": 11184952,
+      "date": 133187214800000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/FWD_METALLIC.PNG.DDS.json",
+      "size": 166,
+      "date": 132899053440000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/MAINPANEL_ALBEDO.PNG.dds",
+      "size": 44739384,
+      "date": 133201825794834799
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/MAINPANEL_ALBEDO.PNG.DDS.FLAGS",
+      "size": 21,
+      "date": 132826603240000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/MAINPANEL_ALBEDO.PNG.DDS.json",
+      "size": 127,
+      "date": 132957026040000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/MID_ALBEDO.PNG.dds",
+      "size": 22369796,
+      "date": 132958231380000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/MID_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132838816960000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/PLACARDS_ALBEDO.PNG.DDS",
+      "size": 699192,
+      "date": 132957943260000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/PLACARDS_ALBEDO.PNG.DDS.json",
+      "size": 119,
+      "date": 132838817040000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/SEATS_GALLEY_ALBD.PNG.dds",
+      "size": 11184952,
+      "date": 133206867687314796
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/SEATS_GALLEY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132943056180000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/texture.CFG",
+      "size": 87,
+      "date": 133186224920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/thumbnail.jpg",
+      "size": 57397,
+      "date": 132918012060000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/thumbnail_small.jpg",
+      "size": 24252,
+      "date": 132918012620000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_LFT_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 132958233080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_LFT_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132838852920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_LFT_METALLIC.PNG.DDS",
+      "size": 2796344,
+      "date": 133187216580000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_LFT_METALLIC.PNG.DDS.json",
+      "size": 166,
+      "date": 132957024920000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_R_ALBEDO.PNG.DDS",
+      "size": 22369796,
+      "date": 132958233480000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_R_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 132838852940000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_R_METALLIC.PNG.DDS",
+      "size": 2796344,
+      "date": 133187217560000000
+    },
+    {
+      "path": "SimObjects/Airplanes/MaddogX-Livery-SAS SE-DIR/texture.SEDIR/WING_R_METALLIC.PNG.DDS.json",
+      "size": 166,
+      "date": 132957025000000000
+    }
+  ]
+}
